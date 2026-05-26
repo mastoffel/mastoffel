@@ -13,6 +13,9 @@
 <details>
   <summary>🐙  projects</summary>
 
+### now
+- founding engineer at an AI x Biotech Startup
+
 ### 🧮 open‑source software
 - **[AutoEmulate](https://github.com/alan-turing-institute/autoemulate)** | Emulating physics simulations using ML
 - **[rptR](https://github.com/mastoffel/rptR)** | Repeatabilities (ICCs) for GLMMs  
