@@ -1,7 +1,7 @@
 <!-- mastoffel/README.md — accordion/zen version -->
 
 <h1 align="left">Hi, I'm Martin 👋</h1>
-<p>Researcher and engineer, bio x AI. </p>
+<p>Founding Engineer at Danu Insights (AI x biotech). </p>
 
 <details>
   <summary>🌊  about</summary>
